@@ -1,0 +1,16 @@
+body {
+    background-color:aquamarine;
+    text-align: center;
+}
+
+h1 {
+    background-color: aqua;
+}
+
+div {
+    background-color: red;
+}
+
+.details {
+    background-color: brown;
+}
